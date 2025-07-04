@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react';
 import heading from '../assets/images/logo-full.svg';
 import upload from '../assets/images/icon-upload.svg';
 import info_icon from '../assets/images/icon-info.svg';
-import Ticket from './ticket';
+import Ticket from '../components/Ticket';
 
 const Form = () => {
   const [name, setName] = useState('');
