@@ -2,8 +2,7 @@ import React from 'react'
 import Form from './components/Form'
 import left_pattern from './assets/images/pattern-squiggly-line-bottom-desktop.svg'
 import right_pattern from './assets/images/pattern-squiggly-line-top.svg'
-import { BrowserRouter, Route,Routes } from 'react-router-dom'
-import Ticket from './components/ticket'
+
 
 const App = () => {
   return (
