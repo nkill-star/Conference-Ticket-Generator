@@ -9,7 +9,7 @@ const App = () => {
     
     <div className=' relative bg-[url("/background-desktop.png")] bg-cover bg-center h-screen'>
       <img
-    src="src/assets/images/pattern-lines.svg"
+    src="/pattern-lines.svg"
     alt="lines overlay"
     className="absolute top-0 left-0 w-full h-screen "
   />
