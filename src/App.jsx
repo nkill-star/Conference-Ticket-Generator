@@ -7,7 +7,7 @@ import right_pattern from './assets/images/pattern-squiggly-line-top.svg'
 const App = () => {
   return (
     
-    <div className=' relative bg-[url("src/assets/images/background-desktop.png")] bg-cover bg-center h-screen'>
+    <div className=' relative bg-[url("/background-desktop.png")] bg-cover bg-center h-screen'>
       <img
     src="src/assets/images/pattern-lines.svg"
     alt="lines overlay"
