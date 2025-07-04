@@ -37,9 +37,9 @@ The avatar exceeds file size or wrong format.
 
 🔗 Links
 
-🚀Live Site: Add your live demo here
+🚀Live Site: https://conference-ticket-generator-psi-blond.vercel.app/
 
-🛠️GitHub Repo: 
+🛠️GitHub Repo: https://github.com/nkill-star/Conference-Ticket-Generator.git
 
 ⚙️ My Process
 
